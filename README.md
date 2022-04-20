@@ -1,6 +1,6 @@
 # Online-Shoppers-Purchasing-Intention
 
-The data set is of customer online shopping behaviour taken from UCI ML Repository which is having more than 18 attributes and 12k+ records.
+The data set is of customer online shopping behaviour taken from UCI ML Repository which is having 18 attributes and 12k+ records.
 
 # Objective:
 
