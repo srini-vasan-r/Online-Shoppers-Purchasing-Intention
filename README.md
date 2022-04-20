@@ -10,3 +10,12 @@ This would help the business to focus on those key areas and take appropriate ac
 # Data Description:
 
 Dataset Link: https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
+
+![image](https://user-images.githubusercontent.com/92773337/164190888-dda30194-39da-435e-99c8-e22fe38f871d.png)
+
+# Algorithms Used:
+
+1. OLS
+2. Logistic Regression
+3. Decision Tree
+4. Random Forest
